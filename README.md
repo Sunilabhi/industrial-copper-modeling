@@ -57,7 +57,7 @@ Order Date and Delivery Date: Select the dates for order and delivery.
 
 ## Classification Model Inputs
 
-Customer ID: Enter the customer ID (numeric).\n
+Customer ID: Enter the customer ID (numeric)."\n"
 Country: Select the country where the order originates.\n
 Selling Price: Enter the selling price of the order.\n
 Item Type: Select the type of item being ordered.\n
