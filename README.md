@@ -16,7 +16,10 @@ Clone the repository:
 bash
 Copy code
 git clone <repository-url>
+
 cd industrial-copper-modeling
+
+
 Install dependencies:
 
 bash
@@ -54,12 +57,12 @@ Order Date and Delivery Date: Select the dates for order and delivery.
 
 ## Classification Model Inputs
 
-Customer ID: Enter the customer ID (numeric).
-Country: Select the country where the order originates.
-Selling Price: Enter the selling price of the order.
-Item Type: Select the type of item being ordered.
-Application: Select the application of the item (dropdown from 1 to 100).
-Width: Enter the width of the item.
+Customer ID: Enter the customer ID (numeric).\n
+Country: Select the country where the order originates.\n
+Selling Price: Enter the selling price of the order.\n
+Item Type: Select the type of item being ordered.\n
+Application: Select the application of the item (dropdown from 1 to 100).\n
+Width: Enter the width of the item.\n
 Product Reference: Select the product reference from available options.
 Quantity (tons): Enter the quantity in tons.
 Thickness: Enter the thickness of the item.
